@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess Score</string>
+    <string name="white_win">Scacco Matto!!!  Il Bianco Vince!!!</string>
+    <string name="black_win">Scacco Matto!!!  Il Nero Vince!!!</string>
+    <string name="error_toast">Puoi tornare indietro solo se clicchi almeno una volta</string>
+    <string name="error_toast_1">Non puoi mangiarne un altro di questi pezzi</string>
+    <string name="info_toast">Clicca sul pezzo appena mangiato per aggiungere i punti; Premi a lungo sul bottone per rimuoverli.</string>
+</resources>

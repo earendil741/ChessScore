@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chess Score</string>
+    <string name="white_win">Checkmate!!!\nWhite Win!!!</string>
+    <string name="black_win">Checkmate!!!\nBlack Win!!!</string>
+    <string name="error_toast">You can undo only if you first press</string>
+    <string name="error_toast_1">You can\'t eat another of this</string>
+    <string name="info_toast">Click on the piece you ate to add point; Long press on the button to remove points.</string>
+</resources>
